@@ -1,2 +1,2 @@
 # Obscura
-A C++ Animation Creation Library
+A C++ an Image Graphics and Animation Creation Library
